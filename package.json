@@ -26,12 +26,7 @@
     "clean_urls": true,
     "routes": {
       "/**": "index.html",
-      "/*.html": "index.html",
-      "redirects": {
-        "/old/gone/": {
-          "url": "/",
-          "status": 302
-      }
+      "/*.html": "index.html"
     }
   },
   "dependencies": {
