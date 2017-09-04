@@ -10,6 +10,7 @@
   "bugs": {
     "url": "https://www.lastingimpressionsmarketing.com/",
     "email": "shannan@lastingimpressionsmarketing.com",
+  },
     "root": "public",
     "clean_urls": true,
     "routes": {
@@ -20,14 +21,14 @@
         "/old/gone/": {
           "url": "/",
           "status": 302
-        }
       }
     }
   },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "David Miller (http://davidmiller.io/)",
+    "Shannan Muench (https://lastingimpressionsmarketing.com)"
   ],
   "repository": {
     "type": "git",
