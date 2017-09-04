@@ -25,7 +25,6 @@
     "root": "public",
     "clean_urls": true,
     "routes": {
-      "/assets/*": "/assets/",
       "/**": "index.html",
       "/*.html": "index.html",
       "redirects": {
