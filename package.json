@@ -6,6 +6,9 @@
     "node": "6.11.1"
   },
   "description": "This is a stylish one page HTML theme for A1 Interior Works.",
+  "scripts": {
+    "start": "node server.js"
+  },
   "homepage": "https://lastingimpressionsmarketing.com",
   "bugs": {
     "url": "https://www.lastingimpressionsmarketing.com/",
@@ -25,14 +28,10 @@
     }
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Lasting Impressions Marketing, LLC",
   "contributors": [
-    "David Miller (http://davidmiller.io/)",
     "Shannan Muench (https://lastingimpressionsmarketing.com)"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://lastingimpressionsmarketing.com"
+    ],
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
@@ -51,8 +50,5 @@
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "3.0.0"
-  },
-  "scripts": {
-    "start": "node server.js"
   }
 }
