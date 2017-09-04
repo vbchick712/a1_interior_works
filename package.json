@@ -1,20 +1,15 @@
 {
-  "title": "Creative",
-  "name": "startbootstrap-creative",
-  "version": "4.0.0-beta",
-  "description": "Creative is a stylish one page HTML theme for Bootstrap.",
-  "keywords": [
-    "css",
-    "sass",
-    "html",
-    "responsive",
-    "theme",
-    "template"
-  ],
-  "homepage": "https://startbootstrap.com/template-overviews/creative",
+  "title": "A1-Interior-Works",
+  "name": "a1-interior-works",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.11.1"
+  },
+  "description": "This is a stylish one page HTML theme for A1 Interior Works.",
+  "homepage": "https://lastingimpressionsmarketing.com",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-    "email": "feedback@startbootstrap.com",
+    "url": "https://www.lastingimpressionsmarketing.com/",
+    "email": "shannan@lastingimpressionsmarketing.com",
     "root": "public",
     "clean_urls": false,
     "routes": {
@@ -28,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "https://lastingimpressionsmarketing.com"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
