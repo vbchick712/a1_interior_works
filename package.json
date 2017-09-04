@@ -25,8 +25,12 @@
     "root": "public",
     "clean_urls": true,
     "routes": {
-      "/**": "index.html",
-      "/*.html": "index.html"
+      "/*.html": "index.html",
+      "redirects": {
+        "/old/gone/": {
+          "url": "/",
+          "status": 302
+      }
     }
   },
   "dependencies": {
