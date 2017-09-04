@@ -15,7 +15,7 @@
     "routes": {
       "/assets/*": "/assets/",
       "/**": "index.html",
-      "/*.html": "index.html"
+      "/*.html": "index.html",
       "redirects": {
         "/old/gone/": {
           "url": "/",
