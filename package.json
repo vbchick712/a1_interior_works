@@ -11,9 +11,17 @@
     "url": "https://www.lastingimpressionsmarketing.com/",
     "email": "shannan@lastingimpressionsmarketing.com",
     "root": "public",
-    "clean_urls": false,
+    "clean_urls": true,
     "routes": {
+      "/assets/*": "/assets/",
+      "/**": "index.html",
       "/*.html": "index.html"
+      "redirects": {
+        "/old/gone/": {
+          "url": "/",
+          "status": 302
+        }
+      }
     }
   },
   "license": "MIT",
