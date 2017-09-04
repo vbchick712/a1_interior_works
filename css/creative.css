@@ -36,8 +36,7 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
 header.masthead {
-  color: #C7342B !important;
-}
+  color: #C7342B; }
 
 p {
   font-size: 16px;
@@ -150,7 +149,7 @@ header.masthead {
   width: 100%;
   min-height: auto;
   text-align: center;
-  color: white;
+  color: #C7342B;
   background-image: url("../img/header.jpg");
   background-position: center;
   -webkit-background-size: cover;
