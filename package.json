@@ -2,14 +2,22 @@
   "title": "A1-Interior-Works",
   "name": "a1-interior-works",
   "version": "1.0.0",
-  "engines": {
-    "node": "6.11.1"
-  },
   "description": "This is a stylish one page HTML theme for A1 Interior Works.",
+  "main": "web.js",
   "scripts": {
     "start": "node server.js"
   },
-  "homepage": "https://lastingimpressionsmarketing.com",
+  "keywords": [
+    "remodeling",
+    "custom",
+    "bath",
+    "kitchen"
+  ],
+  "author": "Lasting Impressions Marketing, LLC",
+  "license": "MIT",
+  "engines": {
+    "node": "6.11.1"
+  },
   "bugs": {
     "url": "https://www.lastingimpressionsmarketing.com/",
     "email": "shannan@lastingimpressionsmarketing.com",
@@ -26,12 +34,6 @@
           "status": 302
       }
     }
-  },
-  "license": "MIT",
-  "author": "Lasting Impressions Marketing, LLC",
-  "contributors": [
-    "Shannan Muench (https://lastingimpressionsmarketing.com)"
-    ],
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
