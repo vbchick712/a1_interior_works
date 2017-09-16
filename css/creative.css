@@ -167,15 +167,14 @@ header.masthead {
     width: 100%;
     padding: 150px 15px 100px;
     text-align: center;
-    /*color: #C7342B !important;*/
   }
     header.masthead .header-content .header-content-inner h1 {
       font-size: 30px;
       font-weight: 700;
+      text-shadow: 2px 2px 4px #000000;
       margin-top: 0;
       margin-bottom: 0;
       text-transform: uppercase;
-      /*color: #C7342B !important;*/
     }
     header.masthead .header-content .header-content-inner hr {
       margin: 30px auto;
@@ -189,7 +188,6 @@ header.masthead {
       font-size: 16px;
       font-weight: 300;
       margin-bottom: 50px;
-      /*color: #C7342B !important;*/
     }
   @media (min-width: 768px) {
     header.masthead {
@@ -204,13 +202,11 @@ header.masthead {
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
-        /*color: #C7342B !important;*/
       }
         header.masthead .header-content .header-content-inner {
           max-width: 1000px;
           margin-right: auto;
           margin-left: auto;
-          /*color: #C7342B !important;*/
         }
           header.masthead .header-content .header-content-inner h1 {
             font-size: 50px;
@@ -220,7 +216,6 @@ header.masthead {
             max-width: 80%;
             margin-right: auto;
             margin-left: auto;
-            /*color: #C7342B !important;*/
           }
         }
 
@@ -296,7 +291,8 @@ header.masthead {
 .btn-default {
   color: #222222;
   border-color: white;
-  background-color: white; }
+  background-color: white;
+  }
   .btn-default.focus, .btn-default:focus {
     color: #222222;
     border-color: #bfbfbf;
@@ -333,7 +329,9 @@ header.masthead {
 .btn-primary {
   color: white;
   border-color: #C7342B;
-  background-color: #C7342B; }
+  background-color: #C7342B;
+  text-shadow: 2px 2px 4px #000000;
+ }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: #5e1914;
