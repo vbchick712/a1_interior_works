@@ -455,3 +455,18 @@ div.bgimg-3 {
   padding: 100px 0;
   color: #000000;
 }
+
+footer.footer {
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  display: block;
+  background-color: #C7342B;
+  text-align: center;
+}
+
+footer.footer p {
+  font-size: 10px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
