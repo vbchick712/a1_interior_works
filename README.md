@@ -1,4 +1,4 @@
-# [A1 Interior Works, Inc. Website]
+# A1 Interior Works, Inc. Website
 
 [This website is a one-page website modified from the Start Boostrap - Creative template. The template was upgraded to have parallax imagery and branding for A1 Interior Works, Inc.]
 
