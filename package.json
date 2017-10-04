@@ -2,23 +2,24 @@
     "title": "Createive",
     "name": "startbootstrap-creative",
     "version": "4.0.0-beta",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "A1 Interior Works, Inc. specializes in commercial and residential renovations.",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "renovation",
+        "remodel",
+        "kitchen",
+        "bath",
+        "custom cabinets",
+        "contractor"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://www.lastingimpressionsmarketing.com/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://www.lastingimpressionsmarketing.com/",
+        "email": "shannan@lastingimpressionsmarketing.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Lasting Impressions Marketing",
     "contributors": [
+        "Shannan Muench (https://www.lastingimpressionsmarketing.com/)",
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
