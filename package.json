@@ -11,6 +11,9 @@
         "custom cabinets",
         "contractor"
     ],
+    "scripts": {
+      "start": "node server.js"
+    }
     "homepage": "https://www.lastingimpressionsmarketing.com/",
     "bugs": {
         "url": "https://www.lastingimpressionsmarketing.com/",
