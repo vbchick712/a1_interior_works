@@ -1,6 +1,5 @@
 {
     "title": "A1 Interior Works",
-
     "name": "a1-interior-works",
     "version": "1.0",
     "description": "A1 Interior Works, Inc. specializes in commercial and residential renovations.",
@@ -13,10 +12,10 @@
         "contractor"
     ],
     "engines": {
-      "node": "6.10.2"
+        "node": "6.10.2"
     },
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "homepage": "https://www.lastingimpressionsmarketing.com/",
     "bugs": {
