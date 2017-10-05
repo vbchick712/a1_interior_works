@@ -3,7 +3,7 @@ var gulp = require('gulp'),
     browserSync = require('browser-sync').create(),
     header = require('gulp-header'),
     cleanCSS = require('gulp-clean-css'),
-    rename = require("gulp-rename"),
+    rename = require('gulp-rename'),
     uglify = require('gulp-uglify'),
     pkg = require('./package.json');
 
