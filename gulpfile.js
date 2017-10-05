@@ -16,6 +16,15 @@ var banner = ['/*!\n',
   ''
 ].join('');
 
+// // Create a production server https://www.sitepoint.com/deploying-heroku-using-gulp-node-git/
+// gulp.task('serveprod', function() {
+//   connect.server({
+//     root: [insert_project_path],
+//     port: process.env.PORT || 5000, // localhost:5000
+//     livereload: false
+//   });
+// });
+
 // Compiles SCSS files from /scss into /css
 gulp.task('sass', function() {
   return gulp.src('scss/creative.scss')
