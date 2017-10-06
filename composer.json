@@ -1,0 +1,12 @@
+{
+  "require": {
+    "bootstrap/bootstrap": "4.0.0-beta",
+    "expresss/express": "4.16.1",
+    "font-awesome/font-awesome": "4.7.0",
+    "jquery/jquery": "3.2.1",
+    "jquery-easing/jquery.easing": "1.4.1",
+    "magnific-popup/magnific-popup": "1.1.0",
+    "popper.js/popper.js": "1.12.3",
+    "scrollreveal/scrollreveal": "3.3.6"
+  }
+}
